@@ -3,4 +3,4 @@ I have done Internship at Pianalytix as a Machine Learning Research Intern. Duri
 1. Tensorflow
 2. Keras
 3. PyTorch
-Image Classification - CV
+4. Image Classification - CV
